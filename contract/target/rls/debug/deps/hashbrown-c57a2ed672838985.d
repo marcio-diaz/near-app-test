@@ -1,0 +1,13 @@
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/hashbrown-c57a2ed672838985.rmeta: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/macros.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/bitmask.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/external_trait_impls/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/map.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/scopeguard.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/set.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/sse2.rs
+
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/hashbrown-c57a2ed672838985.d: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/macros.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/bitmask.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/external_trait_impls/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/map.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/scopeguard.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/set.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/sse2.rs
+
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/lib.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/macros.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/mod.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/bitmask.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/external_trait_impls/mod.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/map.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/scopeguard.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/set.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.8.1/src/raw/sse2.rs:

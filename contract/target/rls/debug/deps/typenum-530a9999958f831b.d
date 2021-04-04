@@ -1,0 +1,18 @@
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/typenum-530a9999958f831b.rmeta: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/op.rs /home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/consts.rs
+
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/typenum-530a9999958f831b.d: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/op.rs /home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/consts.rs
+
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs:
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/op.rs:
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/build/typenum-889aa33b42a3f32f/out/op.rs

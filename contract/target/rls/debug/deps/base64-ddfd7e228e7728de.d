@@ -1,0 +1,12 @@
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/base64-ddfd7e228e7728de.rmeta: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/rls/debug/deps/base64-ddfd7e228e7728de.d: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs:

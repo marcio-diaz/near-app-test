@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-4eb6027ace93ebca/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/wasm32-unknown-unknown/debug/build/typenum-4eb6027ace93ebca/out/op.rs

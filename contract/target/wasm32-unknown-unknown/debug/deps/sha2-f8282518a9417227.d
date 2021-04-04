@@ -1,0 +1,12 @@
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/wasm32-unknown-unknown/debug/deps/sha2-f8282518a9417227.rmeta: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/wasm32-unknown-unknown/debug/deps/libsha2-f8282518a9417227.rlib: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/marcio/blockchain_engineer/near/new-awesome-app/contract/target/wasm32-unknown-unknown/debug/deps/sha2-f8282518a9417227.d: /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs:
+/home/marcio/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs:
